@@ -1,101 +1,101 @@
 1984,George Orwell,978-85-359-0279-2,416,08/06/1949
-Dom Casmurro,Machado de Assis,978-85-359-0277-8,256,01/01/1899
-Harry Potter e a Pedra Filosofal,J. K. Rowling,978-85-359-0281-5,320,26/06/1997
-O Pequeno Príncipe,Antoine de Saint-Exupéry,978-85-359-0280-8,96,06/04/1943
-O Senhor dos Anéis: A Sociedade do Anel,J. R. R. Tolkien,978-85-359-0278-5,576,29/07/1954
-Orgulho e Preconceito,Jane Austen,978-85-359-0300-2,352,28/01/1813
-Cem Anos de Solidão,Gabriel García Márquez,978-85-359-0301-9,448,05/06/1967
-A Revolução dos Bichos,George Orwell,978-85-359-0302-6,152,17/08/1945
-Grande Sertão: Veredas,João Guimarães Rosa,978-85-359-0303-3,624,01/01/1956
-O Alquimista,Paulo Coelho,978-85-359-0304-0,208,01/01/1988
-O Hobbit,J. R. R. Tolkien,978-85-359-0305-7,320,21/09/1937
-Memórias Póstumas de Brás Cubas,Machado de Assis,978-85-359-0306-4,288,15/03/1881
+2666,Roberto Bolaño,978-85-359-0395-8,1120,01/01/2004
+A Cabana do Pai Tomás,Harriet Beecher Stowe,978-85-359-0357-6,624,05/06/1852
+A Cidade e as Serras,Eça de Queirós,978-85-359-0360-6,280,01/01/1901
 A Divina Comédia,Dante Alighieri,978-85-359-0307-1,704,01/01/1320
-Crime e Castigo,Fiódor Dostoiévski,978-85-359-0308-8,576,01/01/1866
-O Conde de Monte Cristo,Alexandre Dumas,978-85-359-0309-5,1248,01/01/1844
-Os Miseráveis,Victor Hugo,978-85-359-0310-1,1488,01/01/1862
-O Nome da Rosa,Umberto Eco,978-85-359-0311-8,592,01/01/1980
-Anna Kariênina,Liev Tolstói,978-85-359-0312-5,864,01/01/1877
-O Retrato de Dorian Gray,Oscar Wilde,978-85-359-0313-2,320,01/01/1890
-O Apanhador no Campo de Centeio,J. D. Salinger,978-85-359-0314-9,288,16/07/1951
-Moby Dick,Herman Melville,978-85-359-0315-6,720,18/10/1851
-Drácula,Bram Stoker,978-85-359-0316-3,488,26/05/1897
-Frankenstein,Mary Shelley,978-85-359-0317-0,280,01/01/1818
-O Morro dos Ventos Uivantes,Emily Brontë,978-85-359-0318-7,416,01/12/1847
-Jane Eyre,Charlotte Brontë,978-85-359-0319-4,500,16/10/1847
-O Silmarillion,J. R. R. Tolkien,978-85-359-0320-0,480,15/09/1977
-Ensaio sobre a Cegueira,José Saramago,978-85-359-0321-7,368,01/01/1995
-A Metamorfose,Franz Kafka,978-85-359-0322-4,96,01/01/1915
-O Processo,Franz Kafka,978-85-359-0323-1,304,01/01/1925
-A Montanha Mágica,Thomas Mann,978-85-359-0324-8,1008,01/01/1924
-Ulisses,James Joyce,978-85-359-0325-5,816,02/02/1922
-Retrato do Artista Quando Jovem,James Joyce,978-85-359-0326-2,288,29/12/1916
-Guerra e Paz,Liev Tolstói,978-85-359-0327-9,1350,01/01/1869
-Madame Bovary,Gustave Flaubert,978-85-359-0328-6,368,01/01/1857
-O Idiota,Fiódor Dostoiévski,978-85-359-0329-3,720,01/01/1869
-Os Irmãos Karamázov,Fiódor Dostoiévski,978-85-359-0330-9,824,01/01/1880
 A Letra Escarlate,Nathaniel Hawthorne,978-85-359-0331-6,352,01/01/1850
-As Viagens de Gulliver,Jonathan Swift,978-85-359-0332-3,352,28/10/1726
-Alice no País das Maravilhas,Lewis Carroll,978-85-359-0333-0,200,26/11/1865
-Através do Espelho,Lewis Carroll,978-85-359-0334-7,224,27/12/1871
-As Aventuras de Tom Sawyer,Mark Twain,978-85-359-0335-4,368,01/01/1876
-As Aventuras de Huckleberry Finn,Mark Twain,978-85-359-0336-1,400,01/01/1884
-O Velho e o Mar,Ernest Hemingway,978-85-359-0337-8,127,01/09/1952
-Por Quem os Sinos Dobram,Ernest Hemingway,978-85-359-0338-5,480,21/10/1940
+A Metamorfose,Franz Kafka,978-85-359-0322-4,96,01/01/1915
+A Montanha Mágica,Thomas Mann,978-85-359-0324-8,1008,01/01/1924
+A Moreninha,Joaquim Manuel de Macedo,978-85-359-0380-4,224,01/01/1844
+A Náusea,Jean-Paul Sartre,978-85-359-0346-0,312,01/01/1938
+A Peste,Albert Camus,978-85-359-0348-4,320,01/01/1947
+A Revolução dos Bichos,George Orwell,978-85-359-0302-6,152,17/08/1945
+A Rosa do Povo,Carlos Drummond de Andrade,978-85-359-0384-2,248,01/01/1945
 Adeus às Armas,Ernest Hemingway,978-85-359-0339-2,332,27/09/1929
-O Grande Gatsby,F. Scott Fitzgerald,978-85-359-0340-8,208,10/04/1925
-Suave é a Noite,F. Scott Fitzgerald,978-85-359-0341-5,416,01/01/1934
-O Sol é para Todos,Harper Lee,978-85-359-0342-2,336,11/07/1960
+Alguma Poesia,Carlos Drummond de Andrade,978-85-359-0383-5,144,01/01/1930
+Alice no País das Maravilhas,Lewis Carroll,978-85-359-0333-0,200,26/11/1865
+Angústia,Graciliano Ramos,978-85-359-0379-8,288,01/01/1936
+Anna Kariênina,Liev Tolstói,978-85-359-0312-5,864,01/01/1877
+As Aventuras de Huckleberry Finn,Mark Twain,978-85-359-0336-1,400,01/01/1884
+As Aventuras de Tom Sawyer,Mark Twain,978-85-359-0335-4,368,01/01/1876
+As Benevolentes,Jonathan Littell,978-85-359-0393-4,992,01/01/2006
+As Viagens de Gulliver,Jonathan Swift,978-85-359-0332-3,352,28/10/1726
+Através do Espelho,Lewis Carroll,978-85-359-0334-7,224,27/12/1871
+Capitães da Areia,Jorge Amado,978-85-359-0371-2,280,01/01/1937
+Casa de Pensão,Aluísio Azevedo,978-85-359-0368-2,304,01/01/1884
+Cem Anos de Solidão,Gabriel García Márquez,978-85-359-0301-9,448,05/06/1967
+Cinco Esquinas,Mario Vargas Llosa,978-85-359-0388-0,320,01/01/2016
+Claro Enigma,Carlos Drummond de Andrade,978-85-359-0382-8,160,01/01/1951
+Contos de Aprendiz,Carlos Drummond de Andrade,978-85-359-0381-1,208,01/01/1951
+Conversa na Catedral,Mario Vargas Llosa,978-85-359-0389-7,704,01/01/1969
+Crime e Castigo,Fiódor Dostoiévski,978-85-359-0308-8,576,01/01/1866
+Do Amor e Outros Demônios,Gabriel García Márquez,978-85-359-0392-7,224,01/01/1994
+Dois Irmãos,Milton Hatoum,978-85-359-0386-6,288,01/01/2000
+Dom Casmurro,Machado de Assis,978-85-359-0277-8,256,01/01/1899
+Dona Flor e Seus Dois Maridos,Jorge Amado,978-85-359-0373-6,560,01/01/1966
+Drácula,Bram Stoker,978-85-359-0316-3,488,26/05/1897
+Eneida,Virgílio,978-85-359-0351-4,400,01/01/0001
+Ensaio sobre a Cegueira,José Saramago,978-85-359-0321-7,368,01/01/1995
+Fausto,Johann Wolfgang von Goethe,978-85-359-0350-7,464,01/01/1808
+Ficções,Jorge Luis Borges,978-85-359-0345-3,224,01/01/1944
+Folhas de Relva,Walt Whitman,978-85-359-0356-9,544,04/07/1855
+Frankenstein,Mary Shelley,978-85-359-0317-0,280,01/01/1818
+Gabriela Cravo e Canela,Jorge Amado,978-85-359-0372-9,448,01/01/1958
+Grande Sertão: Veredas,João Guimarães Rosa,978-85-359-0303-3,624,01/01/1956
+Guerra e Paz,Liev Tolstói,978-85-359-0327-9,1350,01/01/1869
+Harry Potter e a Pedra Filosofal,J. K. Rowling,978-85-359-0281-5,320,26/06/1997
+Histórias Extraordinárias,Edgar Allan Poe,978-85-359-0355-2,320,01/01/1845
+Ilíada,Homero,978-85-359-0352-1,560,01/01/0002
+Iracema,José de Alencar,978-85-359-0361-3,160,01/01/1865
+Jane Eyre,Charlotte Brontë,978-85-359-0319-4,500,16/10/1847
+Lavoura Arcaica,Raduan Nassar,978-85-359-0385-9,200,01/01/1975
+Luciola,José de Alencar,978-85-359-0364-4,208,01/01/1862
+Madame Bovary,Gustave Flaubert,978-85-359-0328-6,368,01/01/1857
+Mar Morto,Jorge Amado,978-85-359-0375-0,320,01/01/1936
+Memórias Póstumas de Brás Cubas,Machado de Assis,978-85-359-0306-4,288,15/03/1881
+Memórias do Cárcere,Graciliano Ramos,978-85-359-0378-1,528,01/01/1953
+Moby Dick,Herman Melville,978-85-359-0315-6,720,18/10/1851
 Neve,Orhan Pamuk,978-85-359-0343-9,440,01/01/2002
 O Aleph,Jorge Luis Borges,978-85-359-0344-6,224,01/01/1949
-Ficções,Jorge Luis Borges,978-85-359-0345-3,224,01/01/1944
-A Náusea,Jean-Paul Sartre,978-85-359-0346-0,312,01/01/1938
-O Estrangeiro,Albert Camus,978-85-359-0347-7,184,01/01/1942
-A Peste,Albert Camus,978-85-359-0348-4,320,01/01/1947
-Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,978-85-359-0349-1,192,01/01/1774
-Fausto,Johann Wolfgang von Goethe,978-85-359-0350-7,464,01/01/1808
-Eneida,Virgílio,978-85-359-0351-4,400,01/01/-19
-Ilíada,Homero,978-85-359-0352-1,560,01/01/-750
-Odisseia,Homero,978-85-359-0353-8,500,01/01/-725
-O Corvo,Edgar Allan Poe,978-85-359-0354-5,128,01/01/1845
-Histórias Extraordinárias,Edgar Allan Poe,978-85-359-0355-2,320,01/01/1845
-Folhas de Relva,Walt Whitman,978-85-359-0356-9,544,04/07/1855
-A Cabana do Pai Tomás,Harriet Beecher Stowe,978-85-359-0357-6,624,05/06/1852
-O Primo Basílio,Eça de Queirós,978-85-359-0358-3,544,01/01/1878
-Os Maias,Eça de Queirós,978-85-359-0359-0,912,01/01/1888
-A Cidade e as Serras,Eça de Queirós,978-85-359-0360-6,280,01/01/1901
-Iracema,José de Alencar,978-85-359-0361-3,160,01/01/1865
-O Guarani,José de Alencar,978-85-359-0362-0,352,01/01/1857
-Senhora,José de Alencar,978-85-359-0363-7,320,01/01/1875
-Luciola,José de Alencar,978-85-359-0364-4,208,01/01/1862
-Triste Fim de Policarpo Quaresma,Lima Barreto,978-85-359-0365-1,288,01/01/1911
-Recordações do Escrivão Isaías Caminha,Lima Barreto,978-85-359-0366-8,280,01/01/1909
-O Cortiço,Aluísio Azevedo,978-85-359-0367-5,352,01/01/1890
-Casa de Pensão,Aluísio Azevedo,978-85-359-0368-2,304,01/01/1884
-O Ateneu,Raul Pompeia,978-85-359-0369-9,288,01/01/1888
-Senhora do Destino,Aguinaldo Silva,978-85-359-0370-5,400,01/01/2004
-Capitães da Areia,Jorge Amado,978-85-359-0371-2,280,01/01/1937
-Gabriela Cravo e Canela,Jorge Amado,978-85-359-0372-9,448,01/01/1958
-Dona Flor e Seus Dois Maridos,Jorge Amado,978-85-359-0373-6,560,01/01/1966
-Tenda dos Milagres,Jorge Amado,978-85-359-0374-3,448,01/01/1969
-Mar Morto,Jorge Amado,978-85-359-0375-0,320,01/01/1936
-São Bernardo,Graciliano Ramos,978-85-359-0376-7,208,01/01/1934
-Vidas Secas,Graciliano Ramos,978-85-359-0377-4,176,01/01/1938
-Memórias do Cárcere,Graciliano Ramos,978-85-359-0378-1,528,01/01/1953
-Angústia,Graciliano Ramos,978-85-359-0379-8,288,01/01/1936
-A Moreninha,Joaquim Manuel de Macedo,978-85-359-0380-4,224,01/01/1844
-Contos de Aprendiz,Carlos Drummond de Andrade,978-85-359-0381-1,208,01/01/1951
-Claro Enigma,Carlos Drummond de Andrade,978-85-359-0382-8,160,01/01/1951
-Alguma Poesia,Carlos Drummond de Andrade,978-85-359-0383-5,144,01/01/1930
-A Rosa do Povo,Carlos Drummond de Andrade,978-85-359-0384-2,248,01/01/1945
-Lavoura Arcaica,Raduan Nassar,978-85-359-0385-9,200,01/01/1975
-Dois Irmãos,Milton Hatoum,978-85-359-0386-6,288,01/01/2000
-Relato de um Certo Oriente,Milton Hatoum,978-85-359-0387-3,192,01/01/1989
-Cinco Esquinas,Mario Vargas Llosa,978-85-359-0388-0,320,01/01/2016
-Conversa na Catedral,Mario Vargas Llosa,978-85-359-0389-7,704,01/01/1969
+O Alquimista,Paulo Coelho,978-85-359-0304-0,208,01/01/1988
 O Amor nos Tempos do Cólera,Gabriel García Márquez,978-85-359-0390-3,448,05/06/1985
-Relato de um Náufrago,Gabriel García Márquez,978-85-359-0391-0,176,01/01/1970
-Do Amor e Outros Demônios,Gabriel García Márquez,978-85-359-0392-7,224,01/01/1994
-As Benevolentes,Jonathan Littell,978-85-359-0393-4,992,01/01/2006
+O Apanhador no Campo de Centeio,J. D. Salinger,978-85-359-0314-9,288,16/07/1951
+O Ateneu,Raul Pompeia,978-85-359-0369-9,288,01/01/1888
+O Conde de Monte Cristo,Alexandre Dumas,978-85-359-0309-5,1248,01/01/1844
+O Cortiço,Aluísio Azevedo,978-85-359-0367-5,352,01/01/1890
+O Corvo,Edgar Allan Poe,978-85-359-0354-5,128,01/01/1845
+O Estrangeiro,Albert Camus,978-85-359-0347-7,184,01/01/1942
+O Grande Gatsby,F. Scott Fitzgerald,978-85-359-0340-8,208,10/04/1925
+O Guarani,José de Alencar,978-85-359-0362-0,352,01/01/1857
+O Hobbit,J. R. R. Tolkien,978-85-359-0305-7,320,21/09/1937
+O Idiota,Fiódor Dostoiévski,978-85-359-0329-3,720,01/01/1869
+O Morro dos Ventos Uivantes,Emily Brontë,978-85-359-0318-7,416,01/12/1847
+O Nome da Rosa,Umberto Eco,978-85-359-0311-8,592,01/01/1980
+O Pequeno Príncipe,Antoine de Saint-Exupéry,978-85-359-0280-8,96,06/04/1943
+O Primo Basílio,Eça de Queirós,978-85-359-0358-3,544,01/01/1878
+O Processo,Franz Kafka,978-85-359-0323-1,304,01/01/1925
+O Retrato de Dorian Gray,Oscar Wilde,978-85-359-0313-2,320,01/01/1890
+O Senhor dos Anéis: A Sociedade do Anel,J. R. R. Tolkien,978-85-359-0278-5,576,29/07/1954
+O Silmarillion,J. R. R. Tolkien,978-85-359-0320-0,480,15/09/1977
+O Sol é para Todos,Harper Lee,978-85-359-0342-2,336,11/07/1960
+O Velho e o Mar,Ernest Hemingway,978-85-359-0337-8,127,01/09/1952
+Odisseia,Homero,978-85-359-0353-8,500,01/01/0003
+Orgulho e Preconceito,Jane Austen,978-85-359-0300-2,352,28/01/1813
 Os Detetives Selvagens,Roberto Bolaño,978-85-359-0394-1,608,01/01/1998
-2666,Roberto Bolaño,978-85-359-0395-8,1120,01/01/2004
+Os Irmãos Karamázov,Fiódor Dostoiévski,978-85-359-0330-9,824,01/01/1880
+Os Maias,Eça de Queirós,978-85-359-0359-0,912,01/01/1888
+Os Miseráveis,Victor Hugo,978-85-359-0310-1,1488,01/01/1862
+Os Sofrimentos do Jovem Werther,Johann Wolfgang von Goethe,978-85-359-0349-1,192,01/01/1774
+Por Quem os Sinos Dobram,Ernest Hemingway,978-85-359-0338-5,480,21/10/1940
+Recordações do Escrivão Isaías Caminha,Lima Barreto,978-85-359-0366-8,280,01/01/1909
+Relato de um Certo Oriente,Milton Hatoum,978-85-359-0387-3,192,01/01/1989
+Relato de um Náufrago,Gabriel García Márquez,978-85-359-0391-0,176,01/01/1970
+Retrato do Artista Quando Jovem,James Joyce,978-85-359-0326-2,288,29/12/1916
+Senhora,José de Alencar,978-85-359-0363-7,320,01/01/1875
+Senhora do Destino,Aguinaldo Silva,978-85-359-0370-5,400,01/01/2004
+Suave é a Noite,F. Scott Fitzgerald,978-85-359-0341-5,416,01/01/1934
+São Bernardo,Graciliano Ramos,978-85-359-0376-7,208,01/01/1934
+Tenda dos Milagres,Jorge Amado,978-85-359-0374-3,448,01/01/1969
+Triste Fim de Policarpo Quaresma,Lima Barreto,978-85-359-0365-1,288,01/01/1911
+Ulisses,James Joyce,978-85-359-0325-5,816,02/02/1922
+Vidas Secas,Graciliano Ramos,978-85-359-0377-4,176,01/01/1938

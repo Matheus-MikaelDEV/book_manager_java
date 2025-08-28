@@ -1,7 +1,10 @@
 package application;
 
+import model.usuario.UsuarioBibliotecario;
+import model.usuario.UsuarioComum;
 import system.systemLivros.SystemLivros;
 import system.systemSave.SystemSave;
+import system.systemUsuarios.SystemUsuarios;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -11,14 +14,15 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("-----  Iniciando Sistema... -----");
-        SystemLivros sistema = new SystemLivros();
+        SystemLivros sistemaLivros = new SystemLivros();
         SystemSave sistemaSave = new SystemSave();
+        SystemUsuarios sistemaUsuarios = new SystemUsuarios();
 
-        int option = 0;
+        int option = 0, option2 = 0;
 
         do {
             try{
-                System.out.print("1. Add Livro\n2. Listar Livros\n3. Salvar Tudo\n4. Sair\nEscolha: ");
+                System.out.print("1. Registrar Usuário\n2. Logar\n3. Sair\nEscolha: ");
                 option = sc.nextInt();
                 sc.nextLine();
             } catch (InputMismatchException e) {
@@ -27,19 +31,43 @@ public class Main {
 
             switch (option) {
                 case 1:
-                    sistema.adicionarLivro();
+                    sistemaUsuarios.adicionarUsuario();
                     break;
                 case 2:
-                    sistema.listarLivros();
+                    sistemaUsuarios.logarUsuario();
+
+                    if (sistemaUsuarios.getUsuarioLogado() instanceof UsuarioBibliotecario) {
+                        do {
+                            try{
+                                System.out.print("1. Add Livro\n2. Listar Livros\n3. Salvar Tudo\n4. Sair\nEscolha: ");
+                                option2 = sc.nextInt();
+                                sc.nextLine();
+                            } catch (InputMismatchException e) {
+                                System.out.println("Erro ao escolher opção!");
+                            }
+
+                            switch (option2) {
+                                case 1:
+                                    sistemaLivros.adicionarLivro();
+                                    break;
+                                case 2:
+                                    sistemaLivros.listarLivros();
+                                    break;
+                                case 3:
+                                    sistemaSave.salvarTudo(sistemaLivros, sistemaUsuarios);
+                                    break;
+                                case 4:
+                                    System.out.println("Saindo...");
+                                    break;
+                            }
+                        } while (option2 != 4);
+                    }
+
                     break;
                 case 3:
-                    sistemaSave.salvarTudo(sistema);
-                    break;
-                case 4:
                     System.out.println("Saindo...");
                     sc.close();
-                    break;
             }
-        } while (option != 4);
+        } while (option != 3);
     }
 }

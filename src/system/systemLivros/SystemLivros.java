@@ -63,8 +63,10 @@ public class SystemLivros {
             data = LocalDate.parse(sc.nextLine(), DateTimeFormatter.ofPattern("dd/MM/yyyy"));
         } catch (InputMismatchException e) {
             System.out.println("Erro ao adicionar livro!");
+            return;
         } catch (DateTimeException e) {
             System.out.println("Erro ao adicionar livro!");
+            return;
         }
 
         for (Livro livro : livros) {
