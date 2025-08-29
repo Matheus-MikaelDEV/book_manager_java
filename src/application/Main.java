@@ -2,6 +2,7 @@ package application;
 
 import model.usuario.UsuarioBibliotecario;
 import model.usuario.UsuarioComum;
+import system.systemEmprestimo.SystemEmprestimo;
 import system.systemLivros.SystemLivros;
 import system.systemSave.SystemSave;
 import system.systemUsuarios.SystemUsuarios;
@@ -17,6 +18,7 @@ public class Main {
         SystemLivros sistemaLivros = new SystemLivros();
         SystemSave sistemaSave = new SystemSave();
         SystemUsuarios sistemaUsuarios = new SystemUsuarios();
+        SystemEmprestimo sistemaEmprestimo = new SystemEmprestimo(sistemaUsuarios, sistemaLivros);
 
         int option = 0, option2 = 0;
 
@@ -44,6 +46,7 @@ public class Main {
                                 sc.nextLine();
                             } catch (InputMismatchException e) {
                                 System.out.println("Erro ao escolher opção!");
+                                sc.nextLine();
                             }
 
                             switch (option2) {
@@ -54,19 +57,56 @@ public class Main {
                                     sistemaLivros.listarLivros();
                                     break;
                                 case 3:
-                                    sistemaSave.salvarTudo(sistemaLivros, sistemaUsuarios);
+                                    sistemaSave.salvarTudo(sistemaLivros, sistemaUsuarios, sistemaEmprestimo);
                                     break;
                                 case 4:
                                     System.out.println("Saindo...");
                                     break;
+                                default:
+                                    System.out.println("Opção inválida!");
+                                    break;
                             }
                         } while (option2 != 4);
+                    } else if (sistemaUsuarios.getUsuarioLogado() instanceof UsuarioComum) {
+
+                        do {
+                            try{
+                                System.out.print("1. Listar Livros\n2. Pegar Livro Emprestado\n3. Listar Emprestimos\n3. Sair\nEscolha: ");
+                                option2 = sc.nextInt();
+                                sc.nextLine();
+                            } catch (InputMismatchException e) {
+                                System.out.println("Erro ao escolher opção!");
+                                sc.nextLine();
+                            }
+
+                            switch (option2) {
+                                case 1:
+                                    sistemaLivros.listarLivros();
+                                    break;
+                                case 2:
+                                    sistemaEmprestimo.adicionarEmprestimo();
+                                    break;
+                                case 3:
+                                    sistemaEmprestimo.listarEmprestimos();
+                                    break;
+                                case 4:
+                                    System.out.println("Saindo...");
+                                    break;
+                                default:
+                                    System.out.println("Opção inválida!");
+                                    break;
+                            }
+                        } while (option2 != 3);
+
                     }
 
                     break;
                 case 3:
                     System.out.println("Saindo...");
-                    sc.close();
+                    break;
+                default:
+                    System.out.println("Opção inválida!");
+                    break;
             }
         } while (option != 3);
     }

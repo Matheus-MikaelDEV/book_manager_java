@@ -56,7 +56,7 @@ public class SystemUsuarios {
             System.out.print("Qual a senha? ");
             senha = sc.nextLine();
 
-            System.out.print("admim ou comum? ");
+            System.out.print("admin ou comum? ");
             tipo = sc.nextLine();
         } catch (Exception e) {
             System.out.println("Erro ao adicionar usuário!");

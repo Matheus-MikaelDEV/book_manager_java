@@ -97,5 +97,4 @@ Suave é a Noite,F. Scott Fitzgerald,978-85-359-0341-5,416,01/01/1934
 São Bernardo,Graciliano Ramos,978-85-359-0376-7,208,01/01/1934
 Tenda dos Milagres,Jorge Amado,978-85-359-0374-3,448,01/01/1969
 Triste Fim de Policarpo Quaresma,Lima Barreto,978-85-359-0365-1,288,01/01/1911
-Ulisses,James Joyce,978-85-359-0325-5,816,02/02/1922
 Vidas Secas,Graciliano Ramos,978-85-359-0377-4,176,01/01/1938

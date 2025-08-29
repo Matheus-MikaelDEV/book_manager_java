@@ -1,8 +1,10 @@
 package system.systemSave;
 
+import model.emprestimo.Emprestimo;
 import model.livro.Livro;
 import model.usuario.Usuario;
 import model.usuario.UsuarioBibliotecario;
+import system.systemEmprestimo.SystemEmprestimo;
 import system.systemLivros.SystemLivros;
 import system.systemUsuarios.SystemUsuarios;
 
@@ -15,7 +17,7 @@ public class SystemSave {
     public SystemSave() {
     }
 
-    public void salvarTudo(SystemLivros systemLivros, SystemUsuarios systemUsuarios) {
+    public void salvarTudo(SystemLivros systemLivros, SystemUsuarios systemUsuarios, SystemEmprestimo systemEmprestimo) {
         try (BufferedWriter bf = new BufferedWriter(new FileWriter("livros.txt"))) {
             DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
             for (Livro livro : systemLivros.getLivros()) {
@@ -48,6 +50,20 @@ public class SystemSave {
             }
          } catch (IOException e) {
             throw new RuntimeException("Erro ao salvar os usuários: " + e.getMessage(), e);
+        }
+        
+        try(BufferedWriter bf = new BufferedWriter(new FileWriter("emprestimos.txt"))) {
+            DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd/MM/yyyy");
+            for (Emprestimo emprestimo : systemEmprestimo.getEmprestimos()) {
+                bf.write(String.format("%s,%s,%s,%s",
+                        emprestimo.getEmail(),
+                        emprestimo.getTituloLivro(),
+                        emprestimo.getEmprestimo().format(formatter),
+                        emprestimo.getDevolucao().format(formatter)));
+                bf.newLine();
+            }
+        } catch (IOException e) {
+            throw new RuntimeException("Erro ao salvar os empréstimos: " + e.getMessage(), e);
         }
     }
 }
