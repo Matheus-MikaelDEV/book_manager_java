@@ -7,7 +7,6 @@ import java.io.FileReader;
 import java.time.DateTimeException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeFormatterBuilder;
 import java.util.*;
 
 public class SystemLivros {
@@ -86,6 +85,47 @@ public class SystemLivros {
     public void listarLivros() {
         for (Livro livro : livros) {
             System.out.println(livro.toString());
+        }
+    }
+
+    public void buscarLivro() {
+        boolean encontrado = false;
+
+        System.out.print("Nome ou ISBN do livro? ");
+        String tituloOrISBN = sc.nextLine().toLowerCase();
+
+        for (Livro livro : livros) {
+            if (livro.getTitulo().toLowerCase().contains(tituloOrISBN) || livro.getIsbn().equalsIgnoreCase(tituloOrISBN)) {
+                System.out.println(livro);
+                encontrado = true;
+            }
+        }
+
+        if (encontrado) {
+            System.out.println("Livro encontrado!");
+        } else {
+            System.out.println("Livro não encontrado!");
+        }
+    }
+
+    public void removerLivro() {
+        boolean removido = false;
+
+        System.out.print("ISBN do livro? ");
+        String ISBN = sc.nextLine().toLowerCase();
+
+        for (Livro livro : livros) {
+            if (livro.getIsbn().equalsIgnoreCase(ISBN)) {
+                System.out.println(livro);
+            }
+        }
+
+        removido = livros.removeIf(livro -> livro.getIsbn().equalsIgnoreCase(ISBN));
+
+        if (removido) {
+            System.out.println("Livro removido com sucesso!");
+        } else {
+            System.out.println("Livro não encontrado!");
         }
     }
 

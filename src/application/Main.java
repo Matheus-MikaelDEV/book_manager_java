@@ -41,7 +41,7 @@ public class Main {
                     if (sistemaUsuarios.getUsuarioLogado() instanceof UsuarioBibliotecario) {
                         do {
                             try{
-                                System.out.print("1. Add Livro\n2. Listar Livros\n3. Salvar Tudo\n4. Sair\nEscolha: ");
+                                System.out.print("1. Add Livro\n2. Listar Livros\n3. Salvar Tudo\n4. Remover Livro\n5. Sair\nEscolha: ");
                                 option2 = sc.nextInt();
                                 sc.nextLine();
                             } catch (InputMismatchException e) {
@@ -60,18 +60,21 @@ public class Main {
                                     sistemaSave.salvarTudo(sistemaLivros, sistemaUsuarios, sistemaEmprestimo);
                                     break;
                                 case 4:
+                                    sistemaLivros.removerLivro();
+                                    break;
+                                case 5:
                                     System.out.println("Saindo...");
                                     break;
                                 default:
                                     System.out.println("Opção inválida!");
                                     break;
                             }
-                        } while (option2 != 4);
+                        } while (option2 != 5);
                     } else if (sistemaUsuarios.getUsuarioLogado() instanceof UsuarioComum) {
 
                         do {
                             try{
-                                System.out.print("1. Listar Livros\n2. Pegar Livro Emprestado\n3. Listar Emprestimos\n3. Sair\nEscolha: ");
+                                System.out.print("1. Listar Livros\n2. Pegar Livro Emprestado\n3. Listar Emprestimos\n4. Buscar\n5. Sair\nEscolha: ");
                                 option2 = sc.nextInt();
                                 sc.nextLine();
                             } catch (InputMismatchException e) {
@@ -90,13 +93,13 @@ public class Main {
                                     sistemaEmprestimo.listarEmprestimos();
                                     break;
                                 case 4:
-                                    System.out.println("Saindo...");
+                                    sistemaLivros.buscarLivro();
                                     break;
                                 default:
                                     System.out.println("Opção inválida!");
                                     break;
                             }
-                        } while (option2 != 3);
+                        } while (option2 != 5);
 
                     }
 
